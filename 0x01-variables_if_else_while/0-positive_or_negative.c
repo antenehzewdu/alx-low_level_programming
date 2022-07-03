@@ -4,16 +4,14 @@
 /**
 * main - entry point
 *
-* Return :always return 0
+* Return:always return 0
 *
 */
 int main(void)
-/* your code gos there */
 {
 int n;
 srand(time(0));
 n = rand() - RAND_MAX / 2;
-/* your code goes there */
 if (n > 0)
 {
 printf("%d is positive\n", n);
