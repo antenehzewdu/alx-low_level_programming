@@ -1,4 +1,4 @@
-#include <stddo.h>
+#include <stdio.h>
 /**
 * main - Entery point
 * Return:always 0 (sucess)
