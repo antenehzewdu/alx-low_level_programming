@@ -1,9 +1,8 @@
 #include "main.h"
 /**
-* print_alphbet -> prints the lowercase alphabet
-*
+* print_alphabet -> prints the lowercase alphabet
 */
-void print_alphbet(void)
+void print_alphabet(void)
 {
 int i;
 for (i = 'a'; i <= 'z'; i++)
