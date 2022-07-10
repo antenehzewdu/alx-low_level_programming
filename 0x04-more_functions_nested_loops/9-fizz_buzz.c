@@ -4,7 +4,7 @@
 * main - printing to 100
 * Return: void
 */
-void main(void)
+int main(void)
 {
 int x;
 int p = 100;
