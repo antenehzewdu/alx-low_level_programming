@@ -2,6 +2,7 @@
 
 /**
 * more_number - print more number
+* Return:10 times of the number since 0 up to 14
 */
 void more_numbers(void)
 {
