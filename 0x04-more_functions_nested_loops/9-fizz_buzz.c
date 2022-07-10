@@ -8,6 +8,7 @@ int main(void)
 {
 int x;
 int p = 100;
+x = 1;
 while (x <= p)
 {
 if (x % 3 == 0 && x % 5 == 0)
