@@ -6,8 +6,8 @@
 */
 int main(void)
 {
-int x;
 int p = 100;
+int x;
 x = 1;
 while (x <= p)
 {
