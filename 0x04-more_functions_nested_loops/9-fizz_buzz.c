@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
-* fizz_buzz - printing to 100
+* main - printing to 100
 * Return: void
 */
-void fizz_buzz(void)
+void main(void)
 {
 int x;
 int p = 100;
