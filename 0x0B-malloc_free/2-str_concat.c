@@ -17,7 +17,7 @@ s2 = " ";
 while (s1[i])
 i++;
 while (s2[j])
-J++;
+j++;
 l = i + j;
 s = malloc(sizeof(char) * (l + 1));
 j = 0;
@@ -30,7 +30,7 @@ if (k > i)
 s[k] = s2[k];
 j++;
 }
-k++
+k++;
 }
 s[k] = '\0';
 return (s);
